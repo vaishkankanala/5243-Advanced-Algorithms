@@ -6,4 +6,4 @@
 
 #### Image:
 
-![IMG_3410](https://github.com/user-attachments/assets/a3e352fa-2c2e-4bda-b1c1-5817fa38d2b1)
+![IMG_3410 copy](https://github.com/user-attachments/assets/6b758d29-d066-421c-a067-adb4e9f3f72a)
