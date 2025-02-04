@@ -10,8 +10,8 @@
    
 #### 3. Node Found: Handling Different Cases
 ##### When the node to be deleted is found, the function handles three cases:
-      ->No Left Child: If the node has no left child, its right child (or nullptr if it has no children) takes its place. The node is deleted,         and the parent's pointer is updated.
-      ->No Right Child: If the node has no right child, its left child takes its place. The node is deleted, and the parent's pointer is               updated.
+      ->No Left Child: If the node has no left child, its right child (or nullptr if it has no children) takes its place. The node is deleted, and the parent's pointer is updated.
+      ->No Right Child: If the node has no right child, its left child takes its place. The node is deleted, and the parent's pointer is updated.
       ->Two Children (Both Left and Right Exist):
         This is the most complex case:
           Finding Inorder Successor: The inorder successor (the smallest node in the right subtree) is located using the minvalue function.
