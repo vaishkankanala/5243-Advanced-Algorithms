@@ -20,3 +20,8 @@
    
 ### 4. Maintaining BST Property
 ##### The choice of the inorder successor ensures that the BST property (left subtree < node < right subtree) is preserved after deletion.
+
+
+## Challenges
+#### I found it hard to understand the recursive call for inorder transversal.
+#### other than that deletion was easy for all cases.
