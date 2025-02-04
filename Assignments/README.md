@@ -25,3 +25,6 @@
 ## Challenges
 #### I found it hard to understand the recursive call for inorder transversal.
 #### other than that deletion was easy for all cases.
+
+
+### Written by: Vaishnavi Kankanala
