@@ -1,6 +1,6 @@
-##📚 Quiz Section
+## 📚 Quiz Section
 
-####✅ Multiple Choice Questions (MCQs)
+### ✅ Multiple Choice Questions (MCQs)
 
 **1. Who coined the term "Trie"?**
 A) Donald Knuth
@@ -21,7 +21,7 @@ D) O(1)
 **3. Which of the following is a primary use of Suffix Trees?**
 A) Prefix matching
 B) Word counting
-C) Substring searching ✅
+C) Pattern searching ✅
 D) Binary search
 
 ---
@@ -40,29 +40,29 @@ B) They are merged in compressed tries ✅
 C) They split into separate trees
 D) Nothing changes
 
+---
 
-####✅ True / False
+### ✅ True / False
 
 **1. Trie is a type of unsorted binary tree.**
-False ❌
+(False)
 
 ---
 
 **2. A suffix tree stores all prefixes of a word.**
-False ❌
+(False)
 
 ---
 
 **3. The time complexity for inserting a word in a Trie is O(L).**
-True ✅
+(True)
 
 ---
 
 **4. Patricia Trie reduces space by removing root nodes.**
-False ❌
+(False)
 
 ---
 
 **5. Compressed Trie can reduce the number of nodes by merging linear chains.**
-True ✅
-
+(True)
